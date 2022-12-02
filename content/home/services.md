@@ -9,14 +9,15 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: CHOOSE YOUR ONLINE WORKOUT
+title: CHOOSE YOUR SERVICES
 subtitle:
 
 design:
   background:
-    image: kelly-sikkema-bE6k8SQT2FQ-unsplash.jpg
-    image_darken: 0.6
-    text_color_light: true
+    #image: kelly-sikkema-bE6k8SQT2FQ-unsplash.jpg
+    #image_darken: 0.6
+    #text_color_light: true
+    color: black
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
