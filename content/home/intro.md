@@ -3,7 +3,8 @@ widget: hero
 headless: true
 weight: 1
 title: |
-  RESTAURANTO
+  LET’S GET
+  COOKING
   {style="color: white; font-size: 5rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
   url: '#book'
@@ -19,5 +20,5 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
-SaaS solution for restaurants
+look'n'cook - SaaS solution for restaurants
 {style="color: white"}
