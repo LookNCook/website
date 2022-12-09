@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: CHOOSE YOUR SERVICES
+title: Why should you choose our solution?
 subtitle:
 
 design:
@@ -23,30 +23,30 @@ design:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: grin-beam-sweat
+- icon: tablet-alt
   icon_pack: fas
-  name: BOOTCAMP
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
-- icon: weight
+  name: Digital ordering system
+  description: Digital ordering via customer devices, digital e-paper menus or traditionally through the waiter.
+- icon: tasks
   icon_pack: fas
-  name: WEIGHT LOSS
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
-- icon: running
+  name: Digital workflow management
+  description: Distribute tasks among your kitchen staff automatically to improve the overall kitchen performance.
+- icon: glasses
   icon_pack: fas
-  name: CARDIO
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
-- icon: dumbbell
+  name: Data glasses integration
+  description: Combine our digital workflow management for the kitchen with the tooz data glasses integration.
+- icon: chart-bar
   icon_pack: fas
-  name: STRENGTH
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
-- icon: 🧘🏼‍♀️
-  icon_pack: emoji
-  name: YOGA
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
-- icon: hiking
+  name: Restaurant statistics
+  description: Keep track of your restaurants performance metrics and make changes where necessary.
+- icon: users-slash
   icon_pack: fas
-  name: POSTURE CORRECTION
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.  
+  name: Staff cost reduction
+  description: Reduce the amount of restaurant staff needed, due to efficiency improvements.
+- icon: smile
+  icon_pack: far
+  name: Customer satisfaction
+  description: Improved customer satisfaction, due to the improved service and meal quality. 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -62,5 +62,3 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
-
-Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.

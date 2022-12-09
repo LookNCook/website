@@ -10,7 +10,7 @@ cta:
   label: '**SIGN UP**'
 cta_alt:
   url: '#services'
-  label: '<span style="color: white">View services</span>'
+  label: '<span style="color: white">Learn more</span>'
 design:
   background:
     image: intro.jpg

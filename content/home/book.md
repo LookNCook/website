@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: BOOK AN ONLINE WORKOUT
+title: Pick a plan
 subtitle:
 
 design:
