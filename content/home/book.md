@@ -21,18 +21,20 @@ design:
 # Create a list of your services
 # For each service, add a name, description, and Calendly.com booking link
 content:
-  button_book_text: Book It
+  button_book_text: Contact us
   services:
-  - name: BOOTCAMP
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
-    link: https://calendly.com/acmesales/30-minute-demo
-  - name: WEIGHT LOSS
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
-    link: https://calendly.com/acmesales/30-minute-demo
-  - name: CARDIO
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna. 
-    link: https://calendly.com/acmesales/30-minute-demo
+  - name: Starter Plan
+    description: Just want to upgrade your small restaurants experience? Then this plan is for you, if you have up to 10 staff members. One-time setup fee of 1500€ for the initial setup.
+    button_text: 500€ per month
+    #link: #contact
+  - name: Enterpreneur Plan
+    description: Are you the restaurant owner of a medium sized restaurant? This plan works for up to 20 staff members. One-time setup fee of 5000€ for the initial setup.
+    button_text: 1500€ per month
+    #link: /#contact
+  - name: Enterprise Plan
+    description: You have one or more restaurants or a total of more than 20 staff members? Then get in touch with us and we will come up with a solution that fits your special needs.
+    button_text: Contact us
 
 ---
 
-Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+Ready to upgrade your restaurants experience with our custom software as a service platform? Then pick one of our plans to get started!

@@ -6,11 +6,11 @@ title: |
   RESTAURANTO
   {style="color: white; font-size: 5rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
-  url: '#signup'
+  url: '#book'
   label: '**SIGN UP**'
 cta_alt:
   url: '#services'
-  label: '<span style="color: white">Learn more</span>'
+  label: '<span style="color: white">LEARN MORE</span>'
 design:
   background:
     image: intro.jpg
