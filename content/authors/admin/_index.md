@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Keren Yang
+title: look’n’cook
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Online Fitness Coach
+role: SaaS solution for restaurants
 
 # Organizations/Affiliations
 #organizations:
