@@ -10,7 +10,7 @@ title: 'The ultimate software suite for managing your restaurant'
 subtitle: ""
 design:
   background:
-    color: '#ff3860'
+    color: '#f25c05'
     text_color_light: true
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
