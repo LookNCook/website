@@ -26,13 +26,9 @@ content:
   - name: Starter Plan
     description: Just want to upgrade your small restaurants experience? Then this plan is for you, if you have up to 10 staff members. One-time setup fee of 1500€ for the initial setup.
     button_text: 500€ per month
-    #link: #contact
-  - name: Enterpreneur Plan
-    description: Are you the restaurant owner of a medium sized restaurant? This plan works for up to 20 staff members. One-time setup fee of 5000€ for the initial setup.
-    button_text: 1500€ per month
     #link: /#contact
   - name: Enterprise Plan
-    description: You have one or more restaurants or a total of more than 20 staff members? Then get in touch with us and we will come up with a solution that fits your special needs.
+    description: You have one or more restaurants or a total of more than 10 staff members? Then get in touch with us and we will come up with a solution that fits your special needs.
     button_text: Contact us
 
 ---
