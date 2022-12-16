@@ -16,6 +16,7 @@ design:
   background:
     image: intro.jpg
     color: black
+    image_position: center right
   columns: '1'
   css_class: d-flex align-items-center fullscreen
 ---
