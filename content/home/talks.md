@@ -4,35 +4,20 @@
 widget: pages
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 25
 
-title: Talks
-subtitle:
+title: Get familiar with our solution
+#subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: event
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 5
-  # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  page_type: markdown
 
 design:
   # Choose a view for the listings:
@@ -43,3 +28,4 @@ design:
   view: 2
   columns: '1'
 ---
+{{< youtube B-6VSjyDu-c >}}
