@@ -10,7 +10,7 @@ cta:
   url: '#book'
   label: '**SIGN UP**'
 cta_alt:
-  url: '#services'
+  url: '#video'
   label: '<span style="color: white">LEARN MORE</span>'
 design:
   background:
