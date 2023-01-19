@@ -24,10 +24,15 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
-    
+
+
+      
+      
+  text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+
 design:
   background:
-    color: '#3a0000'
+    color: '#1a0000'
     text_color_light: true
   columns: '1'
   # css_style: 'padding-top: 0'

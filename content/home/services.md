@@ -17,7 +17,7 @@ design:
     #image: kelly-sikkema-bE6k8SQT2FQ-unsplash.jpg
     #image_darken: 0.6
     #text_color_light: true
-    color: '#2a0000'
+    color: '#1a0000'
   icon: 
     color:'#be5908' 
 
