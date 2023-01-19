@@ -15,7 +15,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     provider: netlify
@@ -23,12 +23,17 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-  
+      captcha: true
+    
 design:
   background:
-    color: black
+    color: '#3a0000'
     text_color_light: true
   columns: '1'
   # css_style: 'padding-top: 0'
+
 ---
+
+
+
+- [X] i accept the: {{% staticref "uploads/Datenschutzerklärung.pdf" "newtab" %}} terms of servcie {{% /staticref %}}

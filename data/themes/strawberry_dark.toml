@@ -5,10 +5,10 @@ name = "Strawberry Dark"
 light = false
 
 # Primary
-primary = "#f25c05"
+primary = "#be5908"
 
 # Menu
-menu_primary = "#f25c05"
+menu_primary = "#be5908"
 menu_text = "#fff"
 menu_text_active = "rgb(208, 255, 56)"
 menu_title = "#fff"

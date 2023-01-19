@@ -17,7 +17,9 @@ design:
     #image: kelly-sikkema-bE6k8SQT2FQ-unsplash.jpg
     #image_darken: 0.6
     #text_color_light: true
-    color: black
+    color: '#2a0000'
+  icon: 
+    color:'#be5908' 
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
