@@ -22,9 +22,9 @@
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
-#    name = "Datenschutzerklärung"  # A link title for your page.
-#    url = '#privacy'  # The URL of your page.
-#    weight = 50
+#  - name: Show_Consent
+#    url: 'show_consent'
+#    weight: 70
 
 
 # Link to a PDF of your resume/CV from the menu.

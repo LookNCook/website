@@ -20,25 +20,25 @@ content:
   form:
     provider: netlify
     formspree:
-      id:
+      id: 
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
 
 
-      
-      
-  text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 
 design:
   background:
     color: '#1a0000'
     text_color_light: true
   columns: '1'
-  # css_style: 'padding-top: 0'
-
+  #css_style: 'padding-bottom: 0'
 ---
 
-
-
-- [X] i accept the: {{% staticref "uploads/Datenschutzerklärung.pdf" "newtab" %}} terms of servcie {{% /staticref %}}
+<form>
+  <input type="checkbox" id="consent" name="consent" > 
+  <label for="consent">
+  I accept the: {{% staticref "uploads/Datenschutzerklärung.pdf" "newtab" %}} terms of servcie {{% /staticref %}}
+  </label>
+  </input>
+</form>
