@@ -1,7 +1,7 @@
 ---
 widget: people
 headless: true  # This file represents a page section.
-weight: 50
+weight: 60
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Meet our Team
@@ -10,7 +10,7 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - CTO
-    
+
 design:
   # Show user's social networking links? (true/false)
   show_social: true
