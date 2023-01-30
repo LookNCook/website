@@ -16,7 +16,7 @@ design:
     #image: kelly-sikkema-bE6k8SQT2FQ-unsplash.jpg
     #image_darken: 0.3
     #text_color_light: true
-    color: black
+    color: '#1a0000'
 
 # Create a list of your services
 # For each service, add a name, description, and Calendly.com booking link

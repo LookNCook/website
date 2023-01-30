@@ -27,5 +27,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
   columns: '1'
+  background: 
+    color: '#1a0000'
 ---
-{{< youtube B-6VSjyDu-c >}}
+{{< youtube Usz8uom3UPs >}}
